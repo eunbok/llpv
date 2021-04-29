@@ -1,4 +1,4 @@
-# llpv (llProcessView) for Windows   
+# llpv (llProcessView) for Windows (v1.1)
 활성화된 프로그램의 사용시간을 측정하여 컴퓨터를 생산적으로 사용할 수 있도록 도와주는 프로그램입니다.
 
 ## 1. 기능
@@ -28,6 +28,9 @@
 * 1.5. 메모
   - 간단한 메모 기능입니다. 한줄 한줄 작성할 때마다 왼쪽 공간에 시간이 기록됩니다. (자동저장 시간 10초)
 
+* 다국어 기능 지원
+  - llpv.properties에서 lang 값을 변경해주시면 됩니다.
+  
 ## 2. 사양
 	운영체제: Windows (정확한 프로세스명을 가져오기 위해 관리자 권한으로 실행을 권장합니다.)
 	HDD: 최소 10MB 
@@ -38,5 +41,6 @@
 https://www.llpv.kr
 
 ## 마무리
-llpv.exe 바로가기를 시작프로그램에 등록하면 더 효율적으로 사용할 수 있습니다.   
+llpv.exe 바로가기를 시작프로그램에 등록하면 더 효율적으로 사용할 수 있습니다.
+[Source Repository](https://github.com/eunbok/llpv_agent)
 질문이나 요청사항은 git 이슈에 남겨주세요.
