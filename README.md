@@ -41,6 +41,6 @@
 https://www.llpv.kr
 
 ## 마무리
-llpv.exe 바로가기를 시작프로그램에 등록하면 더 효율적으로 사용할 수 있습니다.
-[Source Repository](https://github.com/eunbok/llpv_agent)
-질문이나 요청사항은 git 이슈에 남겨주세요.
+llpv.exe 바로가기를 시작프로그램에 등록하면 더 효율적으로 사용할 수 있습니다.   
+[llpv_agent - Source Repository](https://github.com/eunbok/llpv_agent)   
+질문이나 요청사항은 git 이슈에 남겨주세요.   
